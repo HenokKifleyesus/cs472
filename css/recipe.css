@@ -1,0 +1,21 @@
+.comments{
+    left: 50px;
+}
+.article1{
+    background-color:rgb(233, 233, 134);
+}
+h1{
+    text-align: center;
+    font-size: 22pt;
+    color:rgb(187, 187, 13);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color:rgb(187, 187, 13);
+    text-align: left;
+    font-size: 18pt;
+}
+a{
+    color:limegreen;
+    
+}
